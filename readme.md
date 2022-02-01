@@ -7,7 +7,7 @@ The purpose of the code here is to test a data set and determine if the Traffic 
  - _tests/test_main.py_ contains tests making sure that the main elements of code work the way they should.
  - _data.txt_ contains a sample data set
 
-## Instructions
+## Task Guidelines
 The task is to create a python script, that reads data from the file, and analyses it to check if the traffic light is
 working correctly. 
 
@@ -28,3 +28,9 @@ working correctly.
 - Other lights can't blink.
 - A data set can contain any number of records, but can't be empty.
 - If a light can't be read (unrecognised input) it will be treated as bad entry rather than Traffic Light malfunction.
+
+## How to
+To run te code it is enough to run the main.py file. If a data.txt file is not in the same repository as main.py an error will occur. 
+
+## Alternative Solutions
+A possible alternative solution would be to use bitwise operations -  this could be less resource intensive.
