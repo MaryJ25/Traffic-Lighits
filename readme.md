@@ -6,6 +6,7 @@ The purpose of the code here is to test a data set and determine if the Traffic 
  - _Main.py_ contains all the relevant code
  - _tests/test_main.py_ contains tests making sure that the main elements of code work the way they should.
  - _data.txt_ contains a sample data set
+ - _requirements.txt_ list of all packages used majority are for formatting therefore it's more optional than required
 
 ## Task Guidelines
 The task is to create a python script, that reads data from the file, and analyses it to check if the traffic light is
